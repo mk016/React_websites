@@ -36,7 +36,8 @@
     align-items: center;
     gap: 20px; /* Adjusted gap */
     list-style: none;
-    margin-top: 400px;
+    margin-top: 290px;
+   margin-left: 50px;
 }
 
 /* Styling for individual hero dots */
@@ -58,8 +59,8 @@
     display: flex;
     align-items: center;
     gap: 20px; /* Adjusted gap */
-    font-size: small;
-    margin: 40px;
+   margin: none;
+   margin-left: 950px;
 }
 
 /* Additional styling for text inside the play button */
