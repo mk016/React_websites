@@ -44,14 +44,14 @@
 }
 
 
-.hero-dots{
+.hero-dots {
     display: flex;
     align-items: center;
     gap: 23px;
     list-style: none;
-    display: round;
-
+    border-radius: 10px; /* Add rounded corners */
 }
+
 
 
 .hero-dot{
@@ -72,4 +72,9 @@
     align-items: center;
     gap: 30px;
     font-size: small;
+}
+
+.hero-play p{
+    color :#fff;
+    font-size: 19px;
 }
