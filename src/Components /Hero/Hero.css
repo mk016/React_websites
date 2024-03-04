@@ -6,8 +6,8 @@
 /* Correct font-size and line-height */
 .hero-text {
     color: #fff;
-    font-size: 40px; /* Adjusted font size */
-    line-height: 50px; /* Adjusted line height */
+    font-size: 20px; /* Adjusted font size */
+    line-height: 40px; /* Adjusted line height */
 }
 
 /* Styling for the hero button */
