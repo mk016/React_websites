@@ -1,80 +1,68 @@
-.hero{
-    margin: 0px 100px;
-    margin-top: 100px;
-
+/* Adjust margin and spacing */
+.hero {
+    margin: 100px 100px 0;
 }
 
-.hero-text{
-    color:#fff;
-    font-size :110px;
-   
-    font-size: 20px;
-    line-height: 130px;
+/* Correct font-size and line-height */
+.hero-text {
+    color: #fff;
+    font-size: 40px; /* Adjusted font size */
+    line-height: 50px; /* Adjusted line height */
 }
 
+/* Styling for the hero button */
 .hero-explor {
-
     display: flex;
     align-items: center;
-    gap: 50px;
-    width: fit-content;
-    margin-top: 7px;
-    padding-left: 30px;
-    padding: 5px 8px;
-    border-radius: 60px;
+    gap: 20px; /* Adjusted gap */
+    padding: 8px 16px; /* Adjusted padding */
+    border-radius: 30px; /* Adjusted border-radius */
     background-color: white;
     cursor: pointer;
     font-size: small;
-
 }
 
-
-.hero-explor p{
+/* Additional styling for text inside the hero button */
+.hero-explor p {
     color: #292929;
-    font-size: 2px;
     font-weight: 500;
-    font-size: small;
-    margin-top: 20px;
+    font-size: 16px; /* Adjusted font size */
+    margin: 0; /* Remove unnecessary margin */
 }
 
-.hero-dot-play{
-    margin-top: 0px;
-    display: flex;
-    justify-content: space-between;
-}
-
-
+/* Styling for the hero dots */
 .hero-dots {
     display: flex;
     align-items: center;
-    gap: 23px;
+    gap: 20px; /* Adjusted gap */
     list-style: none;
-    border-radius: 10px; 
 }
 
-
-
-.hero-dot{
-    width: 15px;
-    height: 15px;
+/* Styling for individual hero dots */
+.hero-dot {
+    width: 10px; /* Adjusted size */
+    height: 10px; /* Adjusted size */
     background: #fff;
-    border-radius: 7.px;
+    border-radius: 50%; /* Use border-radius to make perfect circles */
     cursor: pointer;
 }
 
-
-.hero-dot.orange{
+/* Additional styling for specific hero dots */
+.hero-dot.orange {
     background: orangered;
 }
 
-.hero-play{
+/* Styling for the play button */
+.hero-play {
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 20px; /* Adjusted gap */
     font-size: small;
 }
 
-.hero-play p{
-    color :#fff;
-    font-size: 19px;
+/* Additional styling for text inside the play button */
+.hero-play p {
+    color: #fff;
+    font-size: 16px; /* Adjusted font size */
+    margin: 0; /* Remove unnecessary margin */
 }
