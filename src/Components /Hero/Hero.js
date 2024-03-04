@@ -6,7 +6,8 @@ const  Hero =( heroData, setHeroCount,heroCount,setPlayStatus,playStatus) => {
   return (
     <div className='hero'>
       <div className='hero-text'>
-        <p></p>
+        <p>some chanegs</p>
+    
         <p></p>
       </div>
     </div>
