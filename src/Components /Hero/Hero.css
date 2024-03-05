@@ -1,13 +1,16 @@
 /* Adjust margin and spacing */
 .hero {
-    margin: 100px 100px 0;
+    margin: 100px 100px;
 }
 
 /* Correct font-size and line-height */
 .hero-text {
-    color: #fff;
+    color: #f6f3f3;
     font-size: 20px; /* Adjusted font size */
-    line-height: 40px; /* Adjusted line height */
+    line-height: 40px;/* Adjusted line height */
+    margin-top: 80px;
+   
+    
 }
 
 /* Styling for the hero button */
@@ -19,7 +22,7 @@
     border-radius: 30px; /* Adjusted border-radius */
     background-color: white;
     cursor: pointer;
-    font-size: small;
+  
 }
 
 /* Additional styling for text inside the hero button */
@@ -51,7 +54,7 @@
 
 /* Additional styling for specific hero dots */
 .hero-dot.orange {
-    background: orangered;
+    background: rgb(194, 183, 180);
 }
 
 /* Styling for the play button */
