@@ -30,9 +30,3 @@ const Hero = ({ heroData, heroCount, setHeroCount, setPlayStatus, playStatus }) 
 }
 
 export default Hero
-
-const heor2 = (()=>{
-  return
-  
-  
-})
