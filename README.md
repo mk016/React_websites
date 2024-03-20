@@ -24,4 +24,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 live link :- (https://mk016-supra-landing-page.vercel.app/)
 
-Screenshots :
+Screenshots : {img src="landing.jpg" }
